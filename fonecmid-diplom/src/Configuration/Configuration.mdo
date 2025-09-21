@@ -885,6 +885,7 @@
   <commonModules>CommonModule.ФизическиеЛицаКлиентСервер</commonModules>
   <commonModules>CommonModule.ФизическиеЛицаКлиентСерверЛокализация</commonModules>
   <commonModules>CommonModule.ВКМ_Интерфейсы</commonModules>
+  <commonModules>CommonModule.ВКМ_Телеграм</commonModules>
   <exchangePlans>ExchangePlan.ОбновлениеИнформационнойБазы</exchangePlans>
   <xDTOPackages>XDTOPackage.ApdexExport</xDTOPackages>
   <xDTOPackages>XDTOPackage.ApdexExport_1_0_0_2</xDTOPackages>
@@ -966,6 +967,7 @@
   <scheduledJobs>ScheduledJob.УстановкаПериодаРассчитанныхИтогов</scheduledJobs>
   <scheduledJobs>ScheduledJob.УстановкаПорядкаОтложенногоОбновленияВМоделиСервиса</scheduledJobs>
   <scheduledJobs>ScheduledJob.ЭкспортОценкиПроизводительности</scheduledJobs>
+  <scheduledJobs>ScheduledJob.ВКМ_ОтправкаСообщенийВТелеграм</scheduledJobs>
   <settingsStorages>SettingsStorage.ХранилищеВариантовОтчетов</settingsStorages>
   <functionalOptions>FunctionalOption.ВыполнятьЗамерыПроизводительности</functionalOptions>
   <functionalOptions>FunctionalOption.ИспользоватьВнешнихПользователей</functionalOptions>
@@ -1116,6 +1118,8 @@
   <constants>Constant.УдалитьНастройкиВходаПользователей</constants>
   <constants>Constant.УчетнаяЗаписьДляВосстановленияПароля</constants>
   <constants>Constant.ХранитьФайлыВТомахНаДиске</constants>
+  <constants>Constant.ВКМ_ТокенУправленияТГБотом</constants>
+  <constants>Constant.ВКМ_ИдентификаторГруппыДляОповощения</constants>
   <commonForms>CommonForm.БлокировкаРаботыСВнешнимиРесурсами</commonForms>
   <commonForms>CommonForm.ВводЗначенийСпискомСФлажками</commonForms>
   <commonForms>CommonForm.Вопрос</commonForms>
@@ -1220,6 +1224,7 @@
   <catalogs>Catalog.Файлы</catalogs>
   <catalogs>Catalog.ВКМ_Сотрудники</catalogs>
   <catalogs>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы</catalogs>
+  <catalogs>Catalog.ВКМ_УведомленияВТелеграм</catalogs>
   <documents>Document.ЗаказПокупателя</documents>
   <documents>Document.ОплатаОтПокупателя</documents>
   <documents>Document.ОплатаПоставщику</documents>
