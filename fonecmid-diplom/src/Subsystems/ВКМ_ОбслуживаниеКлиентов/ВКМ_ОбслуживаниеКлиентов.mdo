@@ -9,4 +9,8 @@
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>Document.ВКМ_ОбслуживаниеКлиента</content>
   <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
+  <content>Report.ВКМ_АнализВыставленныхАктов</content>
+  <content>Report.ВКМ_ВыработкаСпециалистов</content>
+  <content>Report.ВКМ_РасчетыССотрудниками</content>
+  <content>Report.ВКМ_РасходОтпусков</content>
 </mdclass:Subsystem>

@@ -34,4 +34,8 @@
   <content>CalculationRegister.ВКМ_ОсновныеНачисления</content>
   <content>CalculationRegister.ВКМ_ДополнительныеНачисления</content>
   <content>CalculationRegister.ВКМ_Удержания</content>
+  <content>Constant.ВКМ_ТокенУправленияТГБотом</content>
+  <content>Constant.ВКМ_ИдентификаторГруппыДляОповощения</content>
+  <content>Constant.ВКМ_НоменклатураАбонентскаяПлата</content>
+  <content>Constant.ВКМ_НоменклатураРаботыСпециалиста</content>
 </mdclass:Subsystem>

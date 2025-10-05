@@ -48,17 +48,24 @@
     <type>
       <types>Number</types>
       <numberQualifiers>
-        <precision>10</precision>
-        <scale>2</scale>
+        <precision>2</precision>
         <nonNegative>true</nonNegative>
       </numberQualifiers>
     </type>
+    <format>
+      <key>ru</key>
+      <value>ЧЦ=2</value>
+    </format>
+    <editFormat>
+      <key>ru</key>
+      <value>ЧЦ=2</value>
+    </editFormat>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
     <fillValue xsi:type="core:NumberValue">
-      <value>0.00</value>
+      <value>0</value>
     </fillValue>
   </resources>
   <dimensions uuid="e8768db5-52f8-4d23-be7e-3c83e4deb9a5">

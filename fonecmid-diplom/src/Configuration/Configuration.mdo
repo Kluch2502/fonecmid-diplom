@@ -54,7 +54,7 @@
   <subsystems>Subsystem.ПокупкиИПродажи</subsystems>
   <subsystems>Subsystem.СтандартныеПодсистемы</subsystems>
   <subsystems>Subsystem.ВКМ_ДобавленныеОбъекты</subsystems>
-  <subsystems>Subsystem.ВКМ_РаботаСЗаявкамиКлиентов</subsystems>
+  <subsystems>Subsystem.ВКМ_РасчетУправленческойПлаты</subsystems>
   <subsystems>Subsystem.ВКМ_ОбслуживаниеКлиентов</subsystems>
   <styleItems>StyleItem.ВажнаяНадписьШрифт</styleItems>
   <styleItems>StyleItem.ВладелецФайловШрифт</styleItems>
@@ -640,6 +640,9 @@
   <roles>Role.ВКМ_ИспользованиеОтчетаАнализВыставленныхАктов</roles>
   <roles>Role.ВКМ_ИспользованиеОтчетаРасчетыССотрудниками</roles>
   <roles>Role.ВКМ_ИспользованиеОтчетаРасчетОтпусков</roles>
+  <roles>Role.ВКМ_ПросмотрОбслуживание</roles>
+  <roles>Role.ВКМ_ПросмотрРасчетПлаты</roles>
+  <roles>Role.ВКМ_Просмотр</roles>
   <commonTemplates>CommonTemplate.ДанныеПечатиОбщиеРеквизиты</commonTemplates>
   <commonTemplates>CommonTemplate.ДанныеПечатиРегистрСимволов</commonTemplates>
   <commonTemplates>CommonTemplate.ИнструкцияКакВыполнитьНастройкуМакетаOfficeOpen</commonTemplates>
@@ -1343,6 +1346,7 @@
   <dataProcessors>DataProcessor.УправлениеИтогамиИАгрегатами</dataProcessors>
   <dataProcessors>DataProcessor.ВКМ_МассовоеСозданиеАктов</dataProcessors>
   <dataProcessors>DataProcessor.ВКМ_ЗаполнениеГрафикаРаботы</dataProcessors>
+  <dataProcessors>DataProcessor.ОтключениеЗащитыОтОпасныхДействий</dataProcessors>
   <informationRegisters>InformationRegister.БезопасноеХранилищеДанных</informationRegisters>
   <informationRegisters>InformationRegister.БезопасноеХранилищеДанныхОбластейДанных</informationRegisters>
   <informationRegisters>InformationRegister.ВерсииПодсистем</informationRegisters>
