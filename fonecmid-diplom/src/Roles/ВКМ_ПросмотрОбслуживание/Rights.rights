@@ -11,6 +11,20 @@
 		</right>
 	</object>
 	<object>
+		<name>Subsystem.ВКМ_ОбслуживаниеКлиентов.Subsystem.Документы</name>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>Subsystem.ВКМ_ОбслуживаниеКлиентов.Subsystem.Справочники</name>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Subsystem.СтандартныеПодсистемы.Subsystem.УправлениеДоступом</name>
 		<right>
 			<name>View</name>
@@ -110,6 +124,13 @@
 	</object>
 	<object>
 		<name>Subsystem.СтандартныеПодсистемы.Subsystem.Обсуждения</name>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>Subsystem.ВКМ_ОбслуживаниеКлиентов.Subsystem.Отчеты</name>
 		<right>
 			<name>View</name>
 			<value>true</value>
@@ -241,6 +262,13 @@
 	</object>
 	<object>
 		<name>Subsystem.СтандартныеПодсистемы.Subsystem.ПолучениеФайловИзИнтернета</name>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>Subsystem.ВКМ_ОбслуживаниеКлиентов.Subsystem.Обработки</name>
 		<right>
 			<name>View</name>
 			<value>true</value>

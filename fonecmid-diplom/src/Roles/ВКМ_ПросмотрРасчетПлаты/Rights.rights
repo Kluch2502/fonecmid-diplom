@@ -81,7 +81,21 @@
 		</right>
 	</object>
 	<object>
+		<name>Subsystem.ВКМ_РасчетУправленческойПлаты.Subsystem.Обработки</name>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Subsystem.СтандартныеПодсистемы.Subsystem.УправлениеИтогамиИАгрегатами</name>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>Subsystem.ВКМ_РасчетУправленческойПлаты.Subsystem.Документы</name>
 		<right>
 			<name>View</name>
 			<value>true</value>
@@ -116,7 +130,28 @@
 		</right>
 	</object>
 	<object>
+		<name>Subsystem.ВКМ_РасчетУправленческойПлаты.Subsystem.Отчеты</name>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Subsystem.Администрирование</name>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>Subsystem.ВКМ_РасчетУправленческойПлаты.Subsystem.Регистры</name>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>Subsystem.ВКМ_РасчетУправленческойПлаты.Subsystem.Справочники</name>
 		<right>
 			<name>View</name>
 			<value>true</value>
