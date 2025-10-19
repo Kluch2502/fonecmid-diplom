@@ -7,17 +7,9 @@
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
-  <content>Catalog.ВКМ_ВидыГрафиковРаботы</content>
-  <content>Document.ВКМ_НачислениеФиксированнойПремии</content>
-  <content>Document.ВКМ_НачислениеЗарплаты</content>
-  <content>Document.ВКМ_ВыплатаЗарплаты</content>
-  <content>Document.ВКМ_ГрафикОтпусков</content>
-  <content>Report.ВКМ_ВыработкаСпециалистов</content>
-  <content>Report.ВКМ_АнализВыставленныхАктов</content>
-  <content>Report.ВКМ_РасчетыССотрудниками</content>
-  <content>Report.ВКМ_РасходОтпусков</content>
-  <content>DataProcessor.ВКМ_ЗаполнениеГрафикаРаботы</content>
-  <content>InformationRegister.ВКМ_УсловияОплатыСотрудников</content>
-  <content>InformationRegister.ВКМ_ГрафикиРабот</content>
-  <content>InformationRegister.ВКМ_СведенияОбОтпусках</content>
+  <subsystems>Документы</subsystems>
+  <subsystems>Справочники</subsystems>
+  <subsystems>Отчеты</subsystems>
+  <subsystems>Обработки</subsystems>
+  <subsystems>Регистры</subsystems>
 </mdclass:Subsystem>
